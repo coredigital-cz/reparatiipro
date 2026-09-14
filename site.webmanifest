@@ -2,10 +2,10 @@
   "name": "Reparatii Acoperisuri Pro",
   "short_name": "Reparatii Acoperisuri Pro",
   "description": "Înlocuire, montaj și reparații acoperișuri, dulgherie și hidroizolații, la nivel național.",
-  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }],
+  "icons": [{ "src": "/reparatiipro/favicon.svg", "sizes": "any", "type": "image/svg+xml" }],
   "theme_color": "#c43a17",
   "background_color": "#ffffff",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "/reparatiipro/",
   "lang": "ro"
 }

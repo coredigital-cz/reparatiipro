@@ -90,7 +90,7 @@ p{color:var(--ink-2)}
 
 /* ---------- hero ---------- */
 .hero{background:linear-gradient(180deg,var(--soft) 0%,#fff 78%);border-bottom:1px solid var(--line-2);padding:52px 0 60px;position:relative;overflow:hidden}
-.hero::before{content:"";position:absolute;inset:0;background:url("/images/hero-1.jpg") center/cover no-repeat;opacity:.055;filter:grayscale(.55)}
+.hero::before{content:"";position:absolute;inset:0;background:url("/reparatiipro/images/hero-1.jpg") center/cover no-repeat;opacity:.055;filter:grayscale(.55)}
 .hero .wrap{position:relative}
 .hero-grid{display:grid;grid-template-columns:1.08fr .92fr;gap:52px;align-items:start}
 .eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:.78rem;font-weight:600;text-transform:uppercase;letter-spacing:.11em;color:var(--brand);background:var(--brand-soft);border:1px solid rgba(196,58,23,.16);padding:6px 14px;border-radius:999px;margin-bottom:20px}

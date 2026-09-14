@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://reparatii-acoperisuri-pro.ro/sitemap.xml
+Sitemap: https://coredigital-cz.github.io/reparatiipro/sitemap.xml
